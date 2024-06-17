@@ -5,3 +5,4 @@
 - groupby() and getting the index: https://www.geeksforgeeks.org/how-to-iterate-over-dataframe-groups-in-python-pandas/
 - index name: https://stackoverflow.com/questions/19851005/rename-pandas-dataframe-index
 - aggregate function: https://www.w3schools.com/python/pandas/ref_df_aggregate.asp
+- pie chart (pandas): https://stackoverflow.com/questions/75381736/pie-chart-drawing-for-a-specific-column-in-pandas-python
